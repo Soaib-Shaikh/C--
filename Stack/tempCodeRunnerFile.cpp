@@ -1,0 +1,2 @@
+ z.peek();
+    z.display();
