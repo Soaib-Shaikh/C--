@@ -64,7 +64,7 @@ void printVector(vector<int>& arr)
 {
     for (int i = 0; i < arr.size(); i++) // Iterate through the vector
         cout << arr[i] << " "; // Print each element
-    cout << endl;
+        cout << endl;
 }
 
 int main()
